@@ -1,0 +1,15 @@
+.item-list{
+    margin: 1rem 0rem;
+}
+
+.item-list h1{
+    color: #539BF5;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+
+.item-list p{
+    color: #ffffff;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
